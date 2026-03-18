@@ -99,24 +99,9 @@ Each column shows original (ND) and degraded (CD) versions across all generators
 
 ## Main Results
 
-### Overall Comparison (12 Benchmarks)
-
-| Method | Ideal Benchmarks (Avg) | In-the-Wild Benchmarks (Avg) | RealChain ND | RealChain CD | **Overall Avg** |
-|--------|:-----:|:-----:|:-----:|:-----:|:-----:|
-| NPR | 50.7 | 56.2 | 74.3 | 51.7 | 56.0 |
-| UnivFD | 61.6 | 52.4 | 54.2 | 51.3 | 55.8 |
-| FatFormer | 62.8 | 54.4 | 53.9 | 49.2 | 56.2 |
-| SAFE | 59.3 | 56.5 | 54.5 | 41.4 | 49.8 |
-| C2P-CLIP | 70.4 | 58.7 | 50.0 | 50.0 | 55.3 |
-| AIDE | 50.4 | 55.8 | 55.8 | 50.4 | 54.7 |
-| Aligned | 79.0 | 56.5 | 63.8 | 71.9 | 68.8 |
-| DRCT | 68.0 | 54.6 | 60.1 | 55.0 | 60.8 |
-| DDA | 81.4 | 94.5 | 88.5 | 65.8 | 82.3 |
-| **REM** | **86.5** | **94.5** | **94.2** | **84.2** | **94.9** |
-
-### Robustness under Chain Degradations
-
-REM maintains **84.2%** balanced accuracy on severely degraded RealChain, while most baselines fall below 60% — demonstrating strong resilience to real-world image quality degradation.
+<p align="center">
+  <img src="fig/results.png" width="95%">
+</p>
 
 ## News
 
