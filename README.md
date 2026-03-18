@@ -111,9 +111,9 @@ Each column shows original (ND) and degraded (CD) versions across all generators
 ## Citation
 
 ```bibtex
-@article{rem2025,
+@article{liu2025beyond,
   title={Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection},
-  author={Anonymous},
+  author={Liu, Ruiqi and Han, Yi and Zhang, Zhengbo and Yao, Liwei and Yan, Zhiyuan and Shen, Jialiang and Chen, ZhiJin and Sun, Boyi and Weng, Lubin and Dong, Jing and others},
   journal={arXiv preprint arXiv:2512.20937},
   year={2025}
 }
