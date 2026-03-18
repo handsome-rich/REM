@@ -13,7 +13,7 @@ Existing AIGI detectors learn generator-specific **artifacts** that become obsol
 We also release **RealChain**, a comprehensive benchmark with 7 state-of-the-art generators and 50 realistic degradation chains simulating real social media propagation.
 
 <p align="center">
-  <img src="assets/teaser.png" width="90%">
+  <img src="fig/teaser.png" width="90%">
 </p>
 
 ## Highlights
@@ -26,7 +26,7 @@ We also release **RealChain**, a comprehensive benchmark with 7 state-of-the-art
 ## Method Overview
 
 <p align="center">
-  <img src="assets/framework.png" width="95%">
+  <img src="fig/framework.png" width="95%">
 </p>
 
 REM consists of three key modules:
@@ -92,7 +92,7 @@ RealChain/
 ### Visual Samples
 
 <p align="center">
-  <img src="assets/realchain_samples.png" width="95%">
+  <img src="fig/realchain.png" width="95%">
 </p>
 
 Each column shows original (ND) and degraded (CD) versions across all generators and real images. Chain degradations introduce JPEG artifacts, resolution loss, stickers, and color shifts — faithfully reproducing real social media environments.
