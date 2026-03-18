@@ -1,10 +1,6 @@
 # Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection
 
 <p align="center">
-  <b>ECCV 2026</b>
-</p>
-
-<p align="center">
   <a href="https://arxiv.org/abs/2512.20937"><img src="https://img.shields.io/badge/arXiv-2512.20937-b31b1b"></a>
   <a href="https://huggingface.co/datasets/handsomerich/RealChain"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-RealChain-blue"></a>
   <a href="#license"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey"></a>
